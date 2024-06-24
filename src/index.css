@@ -1,0 +1,6 @@
+.wide {
+    width: 150px; /* Adjust the width as needed */
+    display: flex; /* Ensures the icon is centered */
+    justify-content: center; /* Centers the icon horizontally */
+  }
+  
